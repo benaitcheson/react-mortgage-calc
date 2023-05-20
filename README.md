@@ -6,6 +6,8 @@ Used this FreeCodeCamp project as a guide: https://www.freecodecamp.org/news/rea
 
 I learnt a little about useState but everything else is pretty self explanitary. I will try build these features and learn some more, hoepfully. Or I'll just go back to Ruby on Rails and use Hotwire.
 
+This project is fully deployed on Netlify for free. Here's a link: https://main--taupe-axolotl-fc0008.netlify.app/
+
 ## Future developments
 
 - [ ] Make the monthly payment into weekly and fornightly
